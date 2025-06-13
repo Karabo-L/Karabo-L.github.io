@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Karabo Lesapo 
 **BSc IT Student** @ University of Johannesburg | **Front-End Developer**  
 
 ### 🛠 Tech Stack  
